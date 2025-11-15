@@ -35,7 +35,18 @@ A Flutter application that scans product barcodes and fetches detailed product i
 
 -Responsive UI with expandable sections for detailed info
 
+#UI
+![Picture1](https://github.com/user-attachments/assets/52c55067-07d7-440e-968f-def5b6b724c1)
+![Picture2](https://github.com/user-attachments/assets/b7e38592-4b9c-4584-a418-aac64d376e79)
+![Picture3](https://github.com/user-attachments/assets/4f61b02d-e951-4297-b32c-89b835258390)
+![Picture4](https://github.com/user-attachments/assets/71a33efb-b4b6-43d4-b4d3-5ee1f90236d2)
+![Picture5](https://github.com/user-attachments/assets/0f89a201-87f7-42bb-a04f-f531e4ff1bdc)
+
+
+
+
 ## Contributions
 Contributions and suggestions are welcome! Feel free to open issues or pull requests.
+
 
 
